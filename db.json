@@ -3,56 +3,67 @@
 
   	{
     	"id": 0,
-    	"description": "Galaxy & stars photos",
-    	"external_url": "https://unsplash.com/photos/OdIcSx9EXB8",
-    	"image": "https://gateway.pinata.cloud/ipfs/QmbenhFUhkxZieD9BHaaQtLgsAhhjLYa7wwkrne5jXxXZj",
-    	"name": "Starry Night #0",
+    	"description": "GFT Meets prize collection",
+    	"external_url": "https://www.gft.com/es/es/",
+    	"image": "https://gateway.pinata.cloud/ipfs/QmX8MGqK1vU6NoVqtBzP3AjwJYGHUzgDMPLCXDhRSgHKoP",
+    	"name": "First Prize",
 		"attributes": [
     		{
-      			"trait_type": "Author", 
-      			"value": "Matthew Mitchell"
+      			"trait_type": "Series", 
+      			"value": "GFTMeets"
     		},  
     		{
-      			"trait_type": "Camera", 
-      			"value": "SONY, ILCE-7RM4A"
+      			"trait_type": "Position", 
+      			"value": 1
     		}, 
     		{
-      			"trait_type": "Resolution", 
-      			"value": "1935 × 2580 px"
+      			"trait_type": "MeetCoins", 
+      			"value": 300
     		}, 
-            {
-                "display_type": "date", 
-                "trait_type": "Published", 
-                "value": 1636844400
-            }
   		]
   	},
-      {
+  	{
     	"id": 1,
-    	"description": "Galaxy & stars photos",
-    	"external_url": "https://unsplash.com/photos/OdIcSx9EXB8",
-    	"image": "https://gateway.pinata.cloud/ipfs/QmZ6iJbUpEfKxUodwx4DgaF9zquvRjJEMXAkH8EJtWPLKm",
-    	"name": "Starry Night #1",
+    	"description": "GFT Meets prize collection",
+    	"external_url": "https://www.gft.com/es/es/",
+    	"image": "https://gateway.pinata.cloud/ipfs/QmX2JZcoH4WwsNsxZB2aPeu48AqoXhCSTSVcjDjVqZHnZ5",
+    	"name": "Second Prize",
 		"attributes": [
     		{
-                "trait_type": "Author", 
-                "value": "Matthew Mitchell"
-          },  
-          {
-                "trait_type": "Camera", 
-                "value": "NIKON, D750"
-          }, 
-          {
-                "trait_type": "Resolution", 
-                "value": "6016px x 3385 px"
-          }, 
-          {
-              "display_type": "date", 
-              "trait_type": "Published", 
-              "value": 1531951200
-          }
-        ]
-      }
-  	]
+      			"trait_type": "Series", 
+      			"value": "GFTMeets"
+    		},  
+    		{
+      			"trait_type": "Position", 
+      			"value": 2
+    		}, 
+    		{
+      			"trait_type": "MeetCoins", 
+      			"value": 200
+    		}, 
+  		]
+  	},
+	{
+    	"id": 2,
+    	"description": "GFT Meets prize collection",
+    	"external_url": "https://www.gft.com/es/es/",
+    	"image": "https://gateway.pinata.cloud/ipfs/QmeBvC8tY6TXjH2sqjucHEmmt6XJjVKLmzkSiuZpi7igt7",
+    	"name": "First Prize",
+		"attributes": [
+    		{
+      			"trait_type": "Series", 
+      			"value": "GFTMeets"
+    		},  
+    		{
+      			"trait_type": "Position", 
+      			"value": 3
+    		}, 
+    		{
+      			"trait_type": "Prize", 
+      			"value": 100
+    		}, 
+  		]
+  	},
+	]
 
 }
