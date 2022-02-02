@@ -19,7 +19,7 @@
     		{
       			"trait_type": "MeetCoins", 
       			"value": 300
-    		}, 
+    		} 
   		]
   	},
   	{
@@ -40,7 +40,7 @@
     		{
       			"trait_type": "MeetCoins", 
       			"value": 200
-    		}, 
+    		} 
   		]
   	},
 	{
@@ -63,7 +63,7 @@
       			"value": 100
     		} 
   		]
-  	},
+  	}
 	]
 
 }
